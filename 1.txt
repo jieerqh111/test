@@ -1,4 +1,7 @@
-����1.txt�ļ���
-��һ���޸�1.txt�ļ���
-�ڶ����޸�1.txt�ļ���
-д������commit�ˣ�����
+添加1.txt文件！
+第一次修改1.txt文件！
+第二次修改1.txt文件！
+写错，还commit了！！！
+
+
+github 中修改文件！
